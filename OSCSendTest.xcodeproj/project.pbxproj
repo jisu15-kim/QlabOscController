@@ -18,6 +18,7 @@
 		CD67771529D139DF00108135 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = CD67771429D139DF00108135 /* SnapKit */; };
 		CD67771829D139EF00108135 /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = CD67771729D139EF00108135 /* RxCocoa */; };
 		CD67771A29D139EF00108135 /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = CD67771929D139EF00108135 /* RxSwift */; };
+		F90AD1892AEABE9B003BEE69 /* ButtonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90AD1882AEABE9B003BEE69 /* ButtonCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		CD67770329D1397100108135 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD67770629D1397100108135 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CD67770829D1397100108135 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F90AD1882AEABE9B003BEE69 /* ButtonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				CD6776FA29D1397000108135 /* AppDelegate.swift */,
 				CD6776FC29D1397000108135 /* SceneDelegate.swift */,
 				CD6776FE29D1397000108135 /* ViewController.swift */,
+				F90AD1882AEABE9B003BEE69 /* ButtonCell.swift */,
 				CD67770029D1397000108135 /* Main.storyboard */,
 				CD67770329D1397100108135 /* Assets.xcassets */,
 				CD67770529D1397100108135 /* LaunchScreen.storyboard */,
@@ -163,6 +166,7 @@
 				CD6776FF29D1397000108135 /* ViewController.swift in Sources */,
 				CD6776FB29D1397000108135 /* AppDelegate.swift in Sources */,
 				CD6776FD29D1397000108135 /* SceneDelegate.swift in Sources */,
+				F90AD1892AEABE9B003BEE69 /* ButtonCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
